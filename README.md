@@ -1,7 +1,6 @@
-FunkyBackground
-===============
-#Description
-This script enables sites with 100% width and 100% height background, where text never goes over the specific part of the image.
+
+#Funky background
+This responsive script enables sites with 100% width and 100% height background, where text never goes over the specific part of the image.
 
 ##Image
 The image background has to be square and the highlight of the image can't take more than 50% of height and width.
