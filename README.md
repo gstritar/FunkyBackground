@@ -1,4 +1,3 @@
-
 #Funky background
 This responsive script enables sites with 100% width and 100% height background, where text never goes over the specific part of the image.
 
@@ -12,7 +11,7 @@ There are three different layouts.
 
 One the deskrop version, the text takes 1/4 of the screen. 
 
-On the tablet version, it takes 1/2 of the screen.
+On the tablet version, it takes 1/2 of the screen. This text with take either horizontal or vertical 50% of the screen, based on device orientation.
 
 On the mobile version, the image and the text are displayed one under the other.
 
